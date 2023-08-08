@@ -7,6 +7,7 @@ package ejegh;
  */
 public class ClaseNuevaAriel {
     private int num;
+    private int num3;
 
     public ClaseNuevaAriel(int num) {
         this.num = num;
