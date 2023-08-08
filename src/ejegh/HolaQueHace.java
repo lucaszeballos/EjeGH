@@ -11,4 +11,6 @@ package ejegh;
 public class HolaQueHace {
     String locura;
     int numeros;
+    int num
+    
 }
