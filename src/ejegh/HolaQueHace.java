@@ -9,5 +9,6 @@ package ejegh;
  * @author shion
  */
 public class HolaQueHace {
-    
+    String locura;
+    int numeros;
 }
