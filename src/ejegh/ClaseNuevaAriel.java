@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ejegh;
 
 /**
@@ -10,5 +6,18 @@ package ejegh;
  * @author Moksys
  */
 public class ClaseNuevaAriel {
+    private int num;
+
+    public ClaseNuevaAriel(int num) {
+        this.num = num;
+    }
+
+    public int getNum() {
+        return num;
+    }
+
+    public void setNum(int num) {
+        this.num = num;
+    }
     
 }
